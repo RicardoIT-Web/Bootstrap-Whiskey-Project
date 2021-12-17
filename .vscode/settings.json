@@ -23,5 +23,25 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
-   "editor.defaultFormatter": "HookyQR.beautify"
+   "editor.defaultFormatter": "HookyQR.beautify",
+   "cSpell.words": [
+      "adipiscing",
+      "aliqua",
+      "aliquip",
+      "commodo",
+      "consectetur",
+      "consequat",
+      "dolore",
+      "eiusmod",
+      "elit",
+      "enim",
+      "incididunt",
+      "labore",
+      "laboris",
+      "nostrud",
+      "quis",
+      "tempor",
+      "ullamco",
+      "veniam"
+   ]
 }
