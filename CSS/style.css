@@ -2,8 +2,6 @@ body {
     font-family: 'roboto', sans-serif;
 }
 
-.alert-container {}
-
 .callout-container {
     height: 100vh;
 
@@ -29,10 +27,6 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.quotes-container {}
-
-.features-container {}
-
 .block-divider {
     width: 75px;
     height: 5px;
@@ -45,6 +39,22 @@ body {
 
 .block-divider--short {
     width: 35px;
+}
+
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .25);
+    border: 0;
 }
 
 .jumbotron {
